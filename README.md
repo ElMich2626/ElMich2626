@@ -1,6 +1,5 @@
 - Hello, I’m @ElMich2626
 - I’m currently learning C++
-// - 💞️ I’m looking to collaborate on ...
 - How to reach me:
     Instagram: @mich000026
 - Pronouns: He/him
