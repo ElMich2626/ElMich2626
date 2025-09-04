@@ -1,11 +1,23 @@
-- Hello, I’m @ElMich2626
-- I’m currently learning C++, C# and HTML
-- How to reach me:
-    Instagram: @mich000026
-- Pronouns: He/him
-- Fun fact: I am Argentine
+# About Me
 
-<!---
-ElMich2626/ElMich2626 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm **ElMich2626**.  
+I'm from Argentina and currently learning the following technologies:  
+- C++  
+- C#  
+- HTML  
+- Java  
+
+I enjoy programming, problem solving, and continuously improving my skills.  
+I am proudly Argentine 🇦🇷  
+
+---
+
+## Contact
+
+<a href="https://instagram.com/mich000026" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Profile-blue?style=for-the-badge&logo=instagram" />
+</a>
+
+<a href="https://discord.com/users/elmich" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-elmich-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
