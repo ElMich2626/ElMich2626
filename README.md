@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm **ElMich2626**.  
+Hi, I'm **Tobías**.  
 I'm from Argentina and currently learning the following programming languages:  
 - C++  
 - C#  
