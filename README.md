@@ -18,10 +18,6 @@ I am proudly Argentine 🇦🇷
   <img src="https://img.shields.io/badge/Instagram-Profile-blue?style=for-the-badge&logo=instagram" />
 </a>
 
-<a href="https://discord.com/users/elmich" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-elmich-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
 <a href="https://www.linkedin.com/in/tobias-mateo-vaulet/" target="_blank">
   <img src="https://img.shields.io/badge/Linkedin-Profile-blue?style=for-the-badge&logo=logmein" />
 </a>
